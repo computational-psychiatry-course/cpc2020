@@ -1,17 +1,15 @@
-# Official Repository of the Computational Psychiatry Course 2020 #
+# CPC Zurich 2020
 
-Welcome to the CPC2020 Repository
+This repository contains the slides used in the CPC Zurich 2020, which took place online, all around the world! 🗺
 
-### Contact ###
-Dr. Frederike Petzschner
+## Main course 🎙
 
-petzschner@biomed.ee.ethz.ch
+The slides of main course lectures can be found under `main-course`.
 
+## Tutorials 💻
 
-### What is this repository for? ###
+Check out the tutorial material under `tutorials`.
 
-This Repo provides you with
+Enjoy,
 
-- the Slides of the (virtual) Computational Psychiatry Course in Zurich as pdf
-- additional Code presented during talks or tutorials
-
+You CPC Zurich Team
